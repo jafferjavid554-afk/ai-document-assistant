@@ -1,0 +1,29 @@
+=================================================
+DEVELOPMENT NOTES
+=================================================
+
+Project:
+AI Document Assistant
+
+Current Progress:
+- Repository created
+- Initial project structure planned
+- Documentation started
+
+Next Tasks:
+- Create frontend
+- Build backend API
+- Connect AI model
+- Test document upload
+
+Reminder:
+Write clean code, commit changes regularly,
+and keep documentation updated.
+
+Status:
+Work in Progress
+
+Last Updated:
+July 2026
+
+=================================================
